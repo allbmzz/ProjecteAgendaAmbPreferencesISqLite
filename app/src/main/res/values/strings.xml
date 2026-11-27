@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ProjecteAgenda</string>
+    <string name="titol_agenda">Agenda de Contactes</string>
+    <string name="hint_nom">Nom</string>
+    <string name="hint_cognom">Cognom</string>
+    <string name="hint_adreca">Adreça</string>
+    <string name="hint_telefon">Telèfon</string>
+    <string name="hint_mail">Correu electrònic</string>
+    <string name="hint_data_naixement">Data de naixement (AAAA-MM-DD)</string>
+    <string name="btn_afegir">Afegir Contacte</string>
+    <string name="btn_nou_contacte">Nou Contacte</string>
+    <string name="btn_acceptar">Acceptar</string>
+    <string name="btn_cancelar">Cancel·lar</string>
+    <string name="btn_esborrar">Esborrar</string>
+    <string name="msg_obligatoris">El nom i el cognom són obligatoris</string>
+    <string name="msg_telefon_invalid">Telèfon invàlid</string>
+    <string name="msg_data_invalida">Format de data invàlid (useu AAAA-MM-DD)</string>
+    <string name="msg_guardat_ok">Contacte guardat correctament</string>
+    <string name="msg_guardat_error">Error al guardar el contacte</string>
+    <string name="titol_detall">Detall / Edició Contacte</string>
+    <string name="detalls_contacte">Tel: %1$s | Mail: %2$s | Adreça: %3$s | Naixement: %4$s</string>
+</resources>

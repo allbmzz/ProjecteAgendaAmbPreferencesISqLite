@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ProyectoAgenda</string>
+    <string name="titol_agenda">Agenda de Contactos</string>
+    <string name="hint_nom">Nombre</string>
+    <string name="hint_cognom">Apellido</string>
+    <string name="hint_adreca">Dirección</string>
+    <string name="hint_telefon">Teléfono</string>
+    <string name="hint_mail">Correo electrónico</string>
+    <string name="hint_data_naixement">Fecha de nacimiento (AAAA-MM-DD)</string>
+    <string name="btn_afegir">Añadir Contacto</string>
+    <string name="btn_nou_contacte">Nuevo Contacto</string>
+    <string name="btn_acceptar">Aceptar</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="btn_esborrar">Borrar</string>
+    <string name="msg_obligatoris">El nombre y el apellido son obligatorios</string>
+    <string name="msg_telefon_invalid">Teléfono inválido</string>
+    <string name="msg_data_invalida">Formato de fecha inválido (use AAAA-MM-DD)</string>
+    <string name="msg_guardat_ok">Contacto guardado correctamente</string>
+    <string name="msg_guardat_error">Error al guardar el contacto</string>
+    <string name="titol_detall">Detalle / Edición Contacto</string>
+    <string name="detalls_contacte">Tel: %1$s | Mail: %2$s | Dirección: %3$s | Nacimiento: %4$s</string>
+</resources>
